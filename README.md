@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Tom
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning as much as I can
-- 💞️ I’m looking to collaborate on creative development
-- 📫 How to reach me ...
+- 👀 I’m interested in learning about data analysis
+- 🌱 I’m currently learning through coursera's data analytics course
 
 <!---
 TFN1/TFN1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
